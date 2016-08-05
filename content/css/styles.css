@@ -1,0 +1,121 @@
+.row-header{
+    margin:0px auto;
+    padding:0px auto;
+}
+
+.row-content {
+    margin:0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height:400px;
+}
+
+.row-footer{
+
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+.jumbotron {
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background: floralwhite ;
+    color:#029;
+}
+
+address{
+    font-size:80%;
+    margin:0px;
+    color:#0f0f0f;
+}
+
+
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+background: floralwhite;
+}
+
+nav.unq_nvBar{
+
+	margin-top:1%;
+	font-weight: normal;
+    margin: 0px 0px 36px;
+    border-width: 1px 0px;
+ 	padding: 0% 3%;
+    border-style: solid;
+    border-color: #EFC72A;
+    background-color: #FFF7C9;
+
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+    color: #fff;
+    background: #1A237E;
+}
+
+.navbar-inverse .navbar-nav > .open > a,
+ .navbar-inverse .navbar-nav > .open > a:hover,
+ .navbar-inverse .navbar-nav > .open > a:focus {
+    color: #fff;
+    background: #1A237E;
+}
+
+
+
+#header{
+	width:100%	
+	
+}
+
+.spc_font{
+	font-size: 14px;
+    margin-bottom: 27px;
+    line-height: 27px;
+    text-align: justify;
+}
+
+footer {
+    clear: both;
+    margin-top: 35px;
+    text-align: center;
+    height: 100px;
+    color: #029;
+}
+
+
+footer > hr {
+    border-style: solid;
+    border-width: 1px 0px 0px;
+    border-color: #EFC72A;
+}
+
+
+
+p {
+    font-size: 14px;
+}
+
+
+footer > p > a, .btn-link {
+    color: #029;
+}
+
+
+img#mics{
+	width: 235px;
+    margin-left: 18%;
+    border-radius: 50%;
+}
+
+#proIntro{
+	text-align: center;
+}
+
+
+img.img_pro {
+    width: 325px;
+    border-radius: 50%;
+}

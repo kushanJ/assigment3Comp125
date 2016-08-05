@@ -1,0 +1,32 @@
+var para = {
+	"home":{
+		"h1_html":"Welcome!"+"<br>"+" To my portfolio",
+		"h2_html":"Spritual developer and hacker",
+		"intro_hb_html":"Front-End Developer",
+		"intro_para":"I am Kushan, student pursuing Software Engineering Technician Course from Centennial College in Canada. With 2 					years of global experience in Javascript and python, I am currently working as a front-end developer for a 					London based startup which is at it's initial phase. I have hands on expertise in IT  and I enjoy build games 					in python programming language. I have also done courses in online courses in Big Data and Hadoop. Currently 					I am pursuing analytic and database courses from coursera."+"<br>"+" I have a passion for technology and I am 					looking forward to enhance my skills and learn about hacking with my studies.I can be contacted on 					kushan.joshi@gmail.com",
+		"projectLink":"Take tour",
+		"pro_txt":"More >>",
+	},
+	"contact":{
+		"contact_txt":"Contact Me:-",
+		"name":"Name",
+		"phone_no":"Phone Number",
+		"contact_email":"email",
+		"contact_message":"message",
+		"last_name_innerHTML":"Last Name",
+		"sumit_innerHTML":"sumit",
+		"cancel_innerHTML":"cancel"
+	},
+	"projects":{
+		"proIntro":"Project WORK!";
+		"more.innerHTML" : "More >>";
+		"hprotask1_innerHTML" : "Famous Game Pong";
+		"hprotask2_innerHTML" : "Famous Game Rice Rock";
+		"prodesc1_innerHTML" : "Famous game pong build in python language, it a multiplayer fun game. Click on more, hit the play 						button in the webpage and you are good to go",
+		
+		"prodesc2_innerHTML" : "Famous game RiceRocks build in python language, it is a single player game. You got 3 lives destroy 						all the rocks if you can. Click on more, hit the play button in the webpage and you are good to go."
+		"prodesc3_innerHTML" : "An innovation Idea is coming to server you winthin 8 months, just wait and count the countdown."
+		
+	},
+
+}
